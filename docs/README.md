@@ -1,3 +1,3 @@
 # Myblog
 
-The blog 哈哈哈哈
+The blog first page

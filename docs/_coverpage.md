@@ -2,9 +2,5 @@
 
 ## welcome here
 
-<!--背景图片-->
 
-![background](bg.jpg)
-
-<!--背景颜色-->
 
