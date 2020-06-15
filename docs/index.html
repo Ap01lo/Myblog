@@ -12,12 +12,16 @@
   <div id="app">你离Apollo越来越近了......</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: 'Blog',
+      repo: 'Ap01lo/Myblog',
       loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
       coverpage: true,
       subMaxLevel: 3,
-      loadNavbar: true
+      loadNavbar: true,
+      auto2top: true
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>

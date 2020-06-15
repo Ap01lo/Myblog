@@ -2,19 +2,33 @@
 
 <!--docs/_sidebar.md-->
 
- **基础知识**
++ [**序言**](./README)
 
-+ [linux常用命令](./基础知识/linux常用命令)
-+ [谷歌高级搜索命令](./基础知识/GoogleAdvancedSearching)
-+ [latex基本语法](./基础知识/LatexMath基本语法)
+​	[**基础知识**]
 
-**读书笔记**
++ [**模块综述**](./基础知识/README)
 
-+ [金字塔原理](./读书笔记/TheMintoPyramidPrinciple)
++ [linux**常用命令**](./基础知识/linux常用命令)
++ [**谷歌高级搜索命令**](./基础知识/GoogleAdvancedSearching)
++ [latex**基本语法**](./基础知识/LatexMath基本语法)
 
-**编程实战**
 
-+ [matplotlib绘制并定制化图表](./编程实战/绘制并定制化图表)
+
+ [**读书笔记**]
+
++ [**模块综述**](./读书笔记/README)
+
++ [**金字塔原理**](./读书笔记/TheMintoPyramidPrinciple)
+
+  
+
+ [**编程实战**]
+
++ [**模块综述**](./模块综述/README)
+
++ [matplotlib**绘制并定制化图表**](./编程实战/绘制并定制化图表)
+
+
 
 **Manim开发日记**
 
