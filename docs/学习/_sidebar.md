@@ -5,3 +5,5 @@
 + [**Google搜索高级语法**](./基础知识/GoogleAdvancedSearching)
 + [**Latex数学部分语法**](./基础知识/LatexMath基本语法)
 + [**Linux常用命令**](./基础知识/Linux常用命令)
++ [**金字塔原理**](./金字塔原理)
+
