@@ -1,8 +1,8 @@
 <!--_navbar.md-->
 
-+ [主页]()
++ [HOME]()
 
-+ 模块
++ MODULE
 
   + [学习](./学习/README)
   + [随笔](./随笔/README)

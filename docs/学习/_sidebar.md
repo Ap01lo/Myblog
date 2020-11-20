@@ -4,6 +4,6 @@
 + [**Attention机制**](./学习/Attention机制)
 + [**Google搜索高级语法**](./学习/GoogleAdvancedSearching)
 + [**Latex数学部分语法**](./学习/LatexMath基本语法)
-+ [**Linux常用命令**](./学习/Linux常用命令)
++ [**Linux常用命令**](./学习/linux常用命令)
 + [**金字塔原理**](./学习/金字塔原理)
 
