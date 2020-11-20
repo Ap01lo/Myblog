@@ -6,7 +6,7 @@
 
 **Age**: 20
 
-Job: Student
+**Job**: Student
 
 **Email**：z1054837487@gamil.com
 
