@@ -1,6 +1,7 @@
 [**基础知识**]
 
 + [返回上级目录](/README)
++ [**爬虫**](./学习/Request+BeautifulSoup)
 + [**Attention机制**](./学习/Attention机制)
 + [**Google搜索高级语法**](./学习/GoogleAdvancedSearching)
 + [**Latex数学部分语法**](./学习/LatexMath基本语法)
