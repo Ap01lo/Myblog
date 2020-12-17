@@ -17,17 +17,33 @@
       repo: 'Ap01lo/Myblog',
       loadSidebar: true,
       coverpage: true,
-      subMaxLevel: 3,
+      subMaxLevel: 2,
       loadNavbar: true,
       auto2top: true,
       mergeNavbar: true,
+        count:{
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'letf',
+        fontsize:'0.9em',
+        color:'rgb(00,100,200)',
+        language:'english',
+        localization: {
+          words: "",
+          minute: ""
+    },
+    isExpected: false
+  }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-latex.min.js"></script>
-  <!-- Theme: Simple Dark -->
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
 
 
 </body>
