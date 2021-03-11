@@ -2,6 +2,8 @@
 
 + [返回上级目录](/README)
 
++ [**PyQt5（待更新）**](./学习/PyQt5(待更新))
+
 + [**正则表达式**](./学习/正则表达式)
 
 + [**Request+BS4**](./学习/Request+BeautifulSoup)
